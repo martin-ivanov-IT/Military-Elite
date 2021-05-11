@@ -15,6 +15,7 @@ public class Army {
     public void assSoldier(Soldier soldier) {
         this.soldiers.add(soldier);
     }
+    
 
     public List<Soldier> getSoldiers() {
         return soldiers;
